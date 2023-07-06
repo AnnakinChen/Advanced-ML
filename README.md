@@ -43,6 +43,11 @@ The 'pimatr(e).csv' can be used for classification.
 The 'Bostontr(e).csv' is for regression task.  
 The 'capm.csv', 'Apple.csv', 'IBM.csv' can be used for Financial Modelling.  
 
+Please put all files in same path and run 'main.R'.  
+The 'ui.R' is user interface, 'server.R' defines server logic 
+while 'diy.R' and 'dda.R' give some functions that cannot be found
+in R and R packages (from my view this is true at least).  
+
 I would appreciate a lot if you find any mistake and comment it or email it to me.
 
 
